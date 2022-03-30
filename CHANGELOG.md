@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [13.2.6](https://github.com/documentationjs/documentation/compare/v13.2.5...v13.2.6) (2022-03-30)
+
+- [Updated dependencies](https://github.com/wekan/documentation/commit/bc52aa82f7234987e7bcdbdbca19872d09056ec7).
+  Thanks to xet7.
+
 ### [13.2.5](https://github.com/documentationjs/documentation/compare/v13.2.4...v13.2.5) (2021-04-24)
 
 
